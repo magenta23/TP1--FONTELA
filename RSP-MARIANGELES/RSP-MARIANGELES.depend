@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1512683820 source:e:\rsp-fontela-mariangeles\rsp-mariangeles\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512683820 e:\rsp-fontela-mariangeles\rsp-mariangeles\arraylist.h
+
+1512693574 source:e:\rsp-fontela-mariangeles\rsp-mariangeles\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"letra.h"
+	"ArrayList.h"
+	"funciones.h"
+
+1512689878 e:\rsp-fontela-mariangeles\rsp-mariangeles\letra.h
+
+1512689938 source:e:\rsp-fontela-mariangeles\rsp-mariangeles\letra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"letra.h"
+
+1512693714 source:e:\rsp-fontela-mariangeles\rsp-mariangeles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"letra.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1512693572 e:\rsp-fontela-mariangeles\rsp-mariangeles\funciones.h
+	"ArrayList.h"
+
